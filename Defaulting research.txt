@@ -1,0 +1,37 @@
+﻿Defaulting research
+
+
+Dataset link
+http://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients
+
+
+Kaggle link of exploration
+https://www.kaggle.com/gpreda/default-of-credit-card-clients-predictive-models#Data-exploration
+
+
+
+
+
+
+
+
+All info is taken from customer default payments in TAIWAN in 2005. (30000 data points)
+Usually customer credit cards are defaulted after 3-6 missed repayments. 
+
+
+https://www.canstar.com.au/credit-cards/default-credit-card/
+“You default on your credit card if you miss a payment or payments of more than $150 by more than 60 days and this can stay on your credit report for a total of five years!”
+
+
+https://www.cbc.gov.tw/ct.asp?xItem=1059&ctNode=535&mp=2
+^main bank in taiwan page of rates etc, did not fing default policy,.
+
+
+
+
+Kernel accuracy results:
+Over 100 iterations the model achieved an accuracy of 0.702421666666667
+
+
+SGD accuracy results:
+Over 100 iterations the model achieved an average accuracy of 0.789000000000001
